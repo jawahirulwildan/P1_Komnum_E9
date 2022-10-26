@@ -28,9 +28,9 @@ print("Hasil akhir = ", x3)
 
 plot(x,f(x))
 
-xlabel('sb xx')
+xlabel('sb x')
 
-ylabel('sb yy')
+ylabel('sb y')
 
 title('Metode Bolzano')
 
